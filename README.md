@@ -9,9 +9,9 @@ I'm a small developer in 🍁 Canada Ottawa 🍁
 ---
 
 # Projects
-- [Cloudrack-ai](https://ai.cloudrack.ca)https://ai.cloudrack.ca
-- [CasaOS 3rd Party App Store Apps](https://cloudrack.ca)https://cloudrack.ca
-- [Umbrel 3rd Party App Store Apps](https://github.com/cloudrack-ca/cloudrack-umbrel-apps)https://github.com/cloudrack-ca/cloudrack-umbrel-apps
+- [Cloudrack-ai](https://ai.cloudrack.ca)
+- [CasaOS 3rd Party App Store Apps](https://cloudrack.ca)
+- [Umbrel 3rd Party App Store Apps](https://github.com/cloudrack-ca/cloudrack-umbrel-apps)
 ---
 
 # Skilled In
