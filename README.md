@@ -12,7 +12,7 @@ I'm a small developer in 🍁 Canada Ottawa 🍁
 
 # Projects
 <!-- - [Cloudrack-ai](https://ai.cloudrack.ca) -->
-- [CasaOS 3rd Party App Store Apps](https://cloudrack.ca)
+- [CasaOS 3rd Party App Store Apps](https://wiki.cloudrack.ca)
 - [Umbrel 3rd Party App Store Apps](https://github.com/cloudrack-ca/cloudrack-umbrel-apps)
 - [WordPress Simple Installer on a fresh VM/Dedi](https://wp.sh.cloudrack.ca/)
 ---
