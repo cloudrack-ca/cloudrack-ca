@@ -6,7 +6,7 @@ I'm a small developer in 🍁 Canada Ottawa 🍁
  - Like my work? Please donate @ [HERE](https://donatebot.io/checkout/1154471425663574039?buyer=142025929454125056)
 ---
 # Visitor Counter 
-![Visitor Count](https://profile-counter.glitch.me/cloudrack-ca/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=cloudrack-ca&color=red)
 
 ---
 
